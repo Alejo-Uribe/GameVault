@@ -10,7 +10,7 @@ GameVault es una aplicación móvil desarrollada en React Native que permite a l
 
 1. Clonar el repositorio:
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Alejo-Uribe/GameVault
 
 ## Instalar dependencias
 cd GameVault
